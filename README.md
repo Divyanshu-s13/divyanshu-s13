@@ -12,11 +12,12 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, TypeScript, JSON Schema, REST API and Data Visualization. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
+- 💁‍♂️ Contributor at [apisix-dashboard](https://github.com/Divyanshu-s13/apisix-dashboard) 
+- 💁‍♂️ Contributor at [arrow-js](https://github.com/Divyanshu-s13/arrow-js) 
 - ❤ Contributing to Open Source.
 - 💻 Visit my [Portfolio](https://personal-portfolio-nine-liart-99.vercel.app/) for more details about me.
 <!--End Intro-->
@@ -41,8 +42,8 @@
 <h3 align="left">Current Learning</h3>
 <ul align="left">
   <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Exploring advanced React.js patterns and TypeScript.</li>
+  <li>Improving my skills in Devlopment.</li>
 </ul>
   
 <br />
@@ -62,6 +63,7 @@
     </picture>
   </a>
 </p>
+<!--
 <p align="center">
   <a href="https://github.com/daytonaio/daytona">
     <img
@@ -70,6 +72,7 @@
     />
   </a>
 </p>
+-->
 <br />
 
 <!--Github stats Table--> 
