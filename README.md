@@ -51,6 +51,8 @@
 <br />
 <br />
 
+<div style="clear: both;"></div>
+
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
