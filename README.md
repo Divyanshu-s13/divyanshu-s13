@@ -14,7 +14,7 @@
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, TypeScript, JSON Schema, REST API and Data Visualization. </p>
 
-- ✨ Student of life :)
+- ✨ Student of life :))
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 💁‍♂️ Contributor at [apisix-dashboard](https://github.com/Divyanshu-s13/apisix-dashboard) 
 - 💁‍♂️ Contributor at [arrow-js](https://github.com/Divyanshu-s13/arrow-js) 
