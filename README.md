@@ -356,11 +356,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ray%20Bradbury&quote=Insanity%20is%20relative.%20It%20depends%20on%20who%20has%20who%20locked%20in%20what%20cage.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Charles%20Dickens&quote=There%20is%20nothing%20in%20the%20world%20so%20irresistibly%20contagious%20as%20laughter%20and%20good%20humor.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
