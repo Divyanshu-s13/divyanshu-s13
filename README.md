@@ -383,11 +383,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Og%20Mandino&quote=Work%20as%20though%20you%20would%20live%20forever%2C%20and%20live%20as%20though%20you%20would%20die%20today.%20Go%20another%20mile.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=It%20is%20under%20the%20greatest%20adversity%20that%20there%20exists%20the%20greatest%20potential%20for%20doing%20good%2C%20both%20for%20oneself%20and%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
