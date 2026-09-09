@@ -384,11 +384,13 @@
 
 
 
+
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Dalai%20Lama&quote=It%20is%20under%20the%20greatest%20adversity%20that%20there%20exists%20the%20greatest%20potential%20for%20doing%20good%2C%20both%20for%20oneself%20and%20others.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Maxime%20Lagace&quote=The%20truly%20rich%20men%20are%20the%20ones%20who%20have%20health%2C%20loved%20ones%20and%20a%20work%20they%20love.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
+
 
 
 
